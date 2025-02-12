@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data science Projects<br>👯 I’m looking to collaborate on Open source Project<br>🌱 I’m currently learning  Data science<br> 
+🔭 I’m currently working on Data science Projects<br>👯 I’m looking to collaborate on Open source Project<br>🌱 I’m currently learning  Java<br> 
 
 
 ## 🌐 Socials:
